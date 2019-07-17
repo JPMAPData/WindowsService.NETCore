@@ -1,0 +1,14 @@
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.exe
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.deps.json
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.runtimeconfig.json
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.runtimeconfig.dev.json
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.dll
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.pdb
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.csprojAssemblyReference.cache
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.csproj.CoreCompileInputs.cache
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.AssemblyInfoInputs.cache
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.AssemblyInfo.cs
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.dll
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\win10-x64\CoreserviceTest.pdb

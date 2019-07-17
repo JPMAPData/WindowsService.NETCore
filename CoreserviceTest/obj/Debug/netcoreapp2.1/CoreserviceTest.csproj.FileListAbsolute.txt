@@ -1,0 +1,11 @@
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\CoreserviceTest.deps.json
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\CoreserviceTest.runtimeconfig.json
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\CoreserviceTest.runtimeconfig.dev.json
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\CoreserviceTest.dll
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\CoreserviceTest.csproj.CoreCompileInputs.cache
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\CoreserviceTest.AssemblyInfoInputs.cache
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\CoreserviceTest.AssemblyInfo.cs
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\bin\Debug\netcoreapp2.1\CoreserviceTest.pdb
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\CoreserviceTest.dll
+C:\Users\joao.martins\source\repos\CoreserviceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\CoreserviceTest.pdb
+C:\Users\joao.martins\source\repos\CoreServiceTest\CoreserviceTest\obj\Debug\netcoreapp2.1\CoreserviceTest.csprojAssemblyReference.cache

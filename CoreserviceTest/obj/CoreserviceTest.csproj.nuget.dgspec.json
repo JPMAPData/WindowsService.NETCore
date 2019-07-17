@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joao.martins\\source\\repos\\CoreserviceTest\\CoreserviceTest\\CoreserviceTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joao.martins\\source\\repos\\CoreserviceTest\\CoreserviceTest\\CoreserviceTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joao.martins\\source\\repos\\CoreserviceTest\\CoreserviceTest\\CoreserviceTest.csproj",
+        "projectName": "CoreserviceTest",
+        "projectPath": "C:\\Users\\joao.martins\\source\\repos\\CoreserviceTest\\CoreserviceTest\\CoreserviceTest.csproj",
+        "packagesPath": "C:\\Users\\joao.martins\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joao.martins\\source\\repos\\CoreserviceTest\\CoreserviceTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joao.martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.9, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Windows.Compatibility": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
