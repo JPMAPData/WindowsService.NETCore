@@ -1,17 +1,30 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "d38425e7ba84c3398daa301a4427d422bcdec93b"
+    "signature": "024ee9141ef024c737dfa3bb439243bf64b7b969"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "CoreserviceTest/1.0.0": {
         "dependencies": {
+          "Autodesk.Forge": "1.5.2",
           "Microsoft.Windows.Compatibility": "2.1.1"
         },
         "runtime": {
           "CoreserviceTest.dll": {}
+        }
+      },
+      "Autodesk.Forge/1.5.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "RestSharp": "106.3.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Autodesk.Forge.dll": {
+            "assemblyVersion": "1.5.0.0",
+            "fileVersion": "1.5.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/2.1.2": {},
@@ -109,6 +122,22 @@
           "System.ServiceProcess.ServiceController": "4.5.0",
           "System.Text.Encoding.CodePages": "4.5.1",
           "System.Threading.AccessControl": "4.5.0"
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "RestSharp/106.3.1": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.3.1.0",
+            "fileVersion": "106.3.1.3"
+          }
         }
       },
       "runtime.native.System.Data.SqlClient.sni/4.5.0": {
@@ -756,6 +785,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Autodesk.Forge/1.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fB4FNYvTPUsBNypzZplGCbdkv4vRZeYPQJhVlXnC+8if+qbccW38WFt5p2JnkKd662582HcX9+st/vPlt1WEtA==",
+      "path": "autodesk.forge/1.5.2",
+      "hashPath": "autodesk.forge.1.5.2.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/2.1.2": {
       "type": "package",
       "serviceable": true,
@@ -790,6 +826,20 @@
       "sha512": "sha512-hLEB+viWbdRenkc4i/KWlNbXjGXPUJE9GuNS5D+gsK5m832eZxFvE3i0YUOG82tdUM9s5/JaPySqrIdx1x/TEQ==",
       "path": "microsoft.windows.compatibility/2.1.1",
       "hashPath": "microsoft.windows.compatibility.2.1.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "RestSharp/106.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TmlN7SXjK52zzpQDTuzw7IH3XQ2Svtss/4zvQBKIgf74QIVxvlxoAqQYu1EhNQ1bMSBIQ4aK120BO7W+v8/kiQ==",
+      "path": "restsharp/106.3.1",
+      "hashPath": "restsharp.106.3.1.nupkg.sha512"
     },
     "runtime.native.System.Data.SqlClient.sni/4.5.0": {
       "type": "package",

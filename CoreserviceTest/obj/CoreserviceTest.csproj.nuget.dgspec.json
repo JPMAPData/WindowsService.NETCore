@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Autodesk.Forge": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
             "Microsoft.NETCore.App": {
               "target": "Package",
               "version": "[2.1.9, )",

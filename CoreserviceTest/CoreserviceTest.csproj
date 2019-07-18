@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autodesk.Forge" Version="1.5.2" />
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="2.1.1" />
   </ItemGroup>
 
